@@ -33,4 +33,11 @@ font-style: italic;
 border-bottom: 2px solid red;
 }
 
+/* sfondo header */
 
+.header-custom{
+    height: 100vh;
+    background-image: linear-gradient(white,rgba(255, 255, 255, 0)), url(./media/switzerland-862870_1920.jpg);
+background-position: center;
+background-size: cover;
+}
