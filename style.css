@@ -2,7 +2,8 @@ body{
 font-family: Nova Square, Rajdhani;
 }
 
-.logo{
+.logo
+{
     width: 30px;
 }
 
@@ -15,6 +16,7 @@ p
 {
 font-style: italic;
 }
+
 #main span
 {
     color:red;
@@ -38,9 +40,18 @@ background-color: red;
 color: white;
 margin-top: 350px;
 }
-#left_border
+#left_red_border
 {
 border-left: 2px solid red;
+background-image: url(./media/single.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+
+#nored
+
+{
+    border: 1px solid green;
 }
 
 
