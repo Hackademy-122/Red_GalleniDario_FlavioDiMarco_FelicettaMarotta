@@ -1,3 +1,8 @@
+div
+{
+    border: 2px solid green;
+}
+
 body{
 font-family: Nova Square, Rajdhani;
 }
@@ -54,6 +59,22 @@ background-position: right;
     border: 1px solid green;
 }
 
+
+
+#circles
+{
+height: 200px;
+width: 200px;
+border: 1px solid red;
+border-radius: 50%;
+background-image: url(./media/mountain-547363_1920.jpg);
+background-position: center;
+background-size: cover;
+
+}
+div{
+    border: 1px solid green;
+}
 
 
 
